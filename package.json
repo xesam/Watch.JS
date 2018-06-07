@@ -1,6 +1,6 @@
 {
-  "name": "watchjs",
-  "version": "1.3.0",
+  "name": "melanke-watchjs",
+  "version": "1.4.3",
   "description": "A utility for watching object changes.",
   "main": "src/watch.js",
   "scripts": {
